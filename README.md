@@ -1,57 +1,73 @@
-## 👋 Hi there! I'm Pankaj Godham
+<h1 align="center">Hi 👋, I'm Pankaj Godham</h1>
+<h3 align="center">MERN Stack Developer | Passionate Problem Solver | Web Dev Enthusiast</h3>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:godhampankaj@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankaj-godham-6aa289239/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/pankajgodham)
-
----
-
-I'm a **MERN Stack Developer** with a focus on building web applications like job portals, LMS platforms, and admin dashboards. I enjoy transforming ideas into scalable and responsive web solutions.
-
----
-
-### 🚀 Tech Stack
-
-**Languages & Tools:**
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+- 🌱 I’m currently pursuing **B.Tech in Agricultural Information Technology (2021–2026)** at CAIT, Anand.  
+- 🔭 I’m currently working on **full-stack web applications** using the MERN stack.  
+- 💡 I’m passionate about **Data Structures, Algorithms, and building scalable web solutions**.  
+- 💬 Ask me about **React, Node.js, Express, MongoDB, and REST APIs**.  
+- 👨‍💻 All of my projects are available at [My Portfolio](https://pankaj-portfolio-beryl.vercel.app/)  
+- 📫 Reach me at **[godhampankaj111@gmail.com](mailto:godhampankaj111@gmail.com)**  
+- 📄 Know more about me through my [Resume](https://pankaj-portfolio-beryl.vercel.app/)  
 
 ---
 
-### 💼 Current Projects
+### 🚀 Projects
 
-- 🎓 Learning Management System (LMS)
-- 💼 Job Portal with role-based features
+- 🔗 **[Job Portal](https://jobportal-9z5q.onrender.com/)**  
+  _A complete job application system with recruiter and job-seeker dashboards._  
+  **Tech Stack:** Node.js, Express.js, MongoDB, React, Redux, TailwindCSS
 
----
+- 📚 **Learning Management System (LMS)**  
+  _A platform for course creation, enrollment, and video-based learning._  
+  **Tech Stack:** Node.js, Express.js, MongoDB, React, Redux, Stripe, TailwindCSS
 
-### 🌱 Currently Learning
-
-- TypeScript
-- Next.js
-- Cloud deployment (Vercel, Render)
-
----
-
-### 📈 GitHub Stats
-
-![Pankaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pankajgodham&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajgodham&layout=compact&theme=tokyonight)
+- 🐛 **Pest Management System**  
+  _Helps farmers identify pests and consult agricultural experts._  
+  **Tech Stack:** PHP, HTML, CSS, PhpMyAdmin
 
 ---
 
-### 💬 Fun Fact
+### 🛠️ Skills & Tools
 
-I love writing clean code, learning new stacks, and collaborating with other developers 🚀
+**Frontend:**  
+`HTML5` `CSS` `JavaScript` `React.js` `Bootstrap` `TailwindCSS`
+
+**Backend:**  
+`Node.js` `Express.js` `.NET (C#)` `PHP` `Python (Basic)`
+
+**Database:**  
+`MongoDB` `SQL Server`
+
+**Others:**  
+`Git` `GitHub` `AJAX` `jQuery`
 
 ---
 
-📫 **Let’s connect:** [godhampankaj111@gmail.com](mailto:godhampankaj111@gmail.com)
+### 🏅 Certifications
+
+- 🎓 [CSR Training at Sarjen System Pvt. Ltd. (Aug 2023)](https://pankaj-portfolio-beryl.vercel.app/skill.png)
+- 📊 [GeoData Processing using Python & Machine Learning by ISRO (June 2024)](https://pankaj-portfolio-beryl.vercel.app/isro.png)
+- 🌐 [Introduction to MERN Stack by Simplilearn (March 2025)](https://pankaj-portfolio-beryl.vercel.app/skill.png)
+
+---
+
+### 📫 Connect with Me
+
+- 🌐 [Portfolio Website](https://pankaj-portfolio-beryl.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pankaj-godham-6aa289239/)
+- 🧑‍💻 [GitHub](https://github.com/pankajgodham)
+- 📧 [Email Me](mailto:godhampankaj111@gmail.com)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pankajgodham&show_icons=true&theme=tokyonight" alt="Pankaj's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pankajgodham&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+⭐️ _Thanks for visiting my profile! Let's connect and build something amazing._
